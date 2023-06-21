@@ -14,7 +14,7 @@ $ pip install requests
 
 $ pip install bs4
 
-$ git clone https://github.com/FR13ND8/BruteFb](https://github.com/naim982011/Project-XO12
+$ git clone https://github.com/naim982011/Project-XO12
 
 $ cd BruteFb
 
